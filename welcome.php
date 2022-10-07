@@ -3,10 +3,10 @@
 <body>
 
 <?php
-$serverName = 'DESKTOP-8JKL1L1';
-$uid = 'sa';
-$pwd = 'hello123';
-$databaseName = 'phpservertest';
+$serverName = '';
+$uid = '';
+$pwd = '';
+$databaseName = '';
 
 $connectionInfo = ['UID' => $uid,
                          'PWD' => $pwd,
