@@ -14,10 +14,10 @@ section# <input type="number" name="section"><br>
 
 <?php
 
-$serverName = 'DESKTOP-8JKL1L1';
-$uid = 'sa';
-$pwd = 'hello123';
-$databaseName = 'phpservertest';
+$serverName = '';
+$uid = '';
+$pwd = '';
+$databaseName = '';
     $section = $_POST['section'];
     $points = $_POST['points'];
 
